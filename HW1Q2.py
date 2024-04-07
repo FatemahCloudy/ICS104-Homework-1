@@ -1,9 +1,3 @@
-# Your code for Question 2 in this cell
-# After you finish writing your code and check that it is working correctly, 
-# uncomment the first line and run your code again so that it genrates HW1Q2.py file
-
-##
-
 #get two numbers from user and chek if they are positive and different
 
 num1 = int(input("Enter a positive integer: "))
