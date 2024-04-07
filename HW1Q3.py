@@ -1,9 +1,3 @@
-# Your code for Question 3 in this cell
-# After you finish writing your code and check that it is working correctly, 
-# uncomment the first line and run your code again so that it genrates HW1Q3.py file
-
-##
-
 # take three values from the user separated by ","
 num = input("Enter three positive values speraterd by ',': ")
 
